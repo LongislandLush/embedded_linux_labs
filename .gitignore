@@ -1,0 +1,16 @@
+# Build artifacts
+*.o
+*.elf
+*.bin
+*.map
+
+# Build directories
+.build/
+build/
+
+# Logs
+build.log
+
+# Editor files
+*.swp
+*~
