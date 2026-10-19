@@ -1,0 +1,8 @@
+# Generated executables
+**/app
+
+# Shared libraries
+**/*.so
+
+# Object files
+**/*.o
